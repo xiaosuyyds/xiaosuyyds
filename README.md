@@ -8,8 +8,8 @@ A Student, and an ordinary programming enthusiast.
 ### My Tech Stack
 
 *   **Languages:** Python
-*   **Frontend(a little):** HTML5, CSS3, JavaScript
-*   **Backend:** Flask
+*   **Frontend(a little):** HTML, CSS, JavaScript, Vue
+*   **Backend:** Flask, FastAPI
 *   **Tools:** Git, Linux, VSCode, PyCharm
 
 ### Some of My Projects
